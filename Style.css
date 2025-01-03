@@ -1,0 +1,59 @@
+body{
+    margin: 0px;
+}
+
+#p1{
+    width:  100%;
+    display: inline-flex;
+    border : none 5px;
+    background-color:rgb(252, 243, 229);
+    margin: 0px;
+}
+ul{
+    list-style-type: none;
+    display: inline-flex;
+    gap: 30px;
+}
+#p2{
+    border : none;
+    border-radius: 5px;
+    background-color:#EB662B ;
+    color: white;
+    margin:     10px;
+}
+#logo{
+    margin:25px;
+}
+
+#sec1{
+    margin: 50px;
+    display: inline-flex;
+}
+#p3{
+    color :#EB662B;
+}
+#p4{
+    background-color: #EB662B;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#sec2{
+    margin: 50px;
+}
+#service{
+   display: inline-flex; 
+}
+#p7{
+    margin-right: 80px;
+}
+
+footer{
+    background-color: #FDF0EA;
+    margin: 50px;
+    padding: 20px 50px;
+}
+#p10{
+    font-size: 60px; 
+}
